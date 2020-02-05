@@ -1,7 +1,7 @@
 {
-  "name": "js-diagnostics-ii",
-  "version": "0.0.0",
-  "description": "JavaScript template",
+  "name": "diagnostics-js-ii",
+  "version": "0.1.0",
+  "description": "JavaScript Diagnostics II",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfarmer/js-diagnostics-ii.git"
+    "url": "git+https://github.com/jfarmer/diagnostics-js-ii.git"
   },
   "keywords": [
     "javascript",
@@ -29,7 +29,7 @@
   "author": "Jesse Farmer <jesse@20bits.com>",
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/jfarmer/js-diagnostics-ii/issues"
+    "url": "https://github.com/jfarmer/diagnostics-js-ii/issues"
   },
-  "homepage": "https://github.com/jfarmer/js-diagnostics-ii#readme"
+  "homepage": "https://github.com/jfarmer/diagnostics-js-ii#readme"
 }
