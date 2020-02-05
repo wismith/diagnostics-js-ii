@@ -8,8 +8,8 @@
  */
 
 function perfectShuffle(array) {
-  let firstHalf = array.splice(0,array.length/2);
-  let secondHalf = array;
+  let firstHalf = array.slice(0,array.length/2);
+  let secondHalf = array.slice(array.length/2, array.length);
 
   let newArray = [];
   for (let i = 0; i < firstHalf.length; i++) {

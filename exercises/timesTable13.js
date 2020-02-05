@@ -10,12 +10,9 @@
  */
 function timesTable13(n) {
   const multipliers = [];
-  for (let i = 1; i <= n; i++) {
-    multipliers.push(i);
-  }
   console.log();
-  for (let multiplier of multipliers) {
-    console.log(`13 times ${multiplier} is ${multiplier * 13}`);
+  for (let i = 1; i <= n; i++) {
+    console.log(`13 times ${i} is ${i * 13}`);
   }
 }
 
